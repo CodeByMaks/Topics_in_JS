@@ -160,7 +160,7 @@ sayHi(); // "Hi!"
 > Для function expressions поднимается только объявление переменной.
 
 ### Классы:
-```
+```js
 const obj = new MyClass(); // Ошибка: Cannot access 'MyClass' before initialization
 
 class MyClass {
